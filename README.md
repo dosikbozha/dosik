@@ -1,3 +1,2 @@
-pkg install su
-smd.su
+pkg install linux
 
