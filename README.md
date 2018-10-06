@@ -1,2 +1,3 @@
-# dosik
-Rooooo
+pkg install su
+smd.su
+
